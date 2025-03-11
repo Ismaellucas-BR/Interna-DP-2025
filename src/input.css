@@ -1,0 +1,1228 @@
+@import "tailwindcss";
+
+/* be-vietnam-pro-100 - latin_latin-ext */
+@font-face {
+  font-display: optional; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 100;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-100italic - latin_latin-ext */
+@font-face {
+  font-display: optional; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 100;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-100italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-200 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 200;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-200italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 200;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-200italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-300 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-300italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-300italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-regular - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-500 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-500italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 500;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-600 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-600italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-600italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-700 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-700italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-800 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-800italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 800;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-800italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-900 - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* be-vietnam-pro-900italic - latin_latin-ext */
+@font-face {
+  font-display: auto; 
+  font-family: 'Be Vietnam Pro';
+  font-style: italic;
+  font-weight: 900;
+  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-900italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}  
+
+@theme {
+  --font-display: 'Be Vietnam Pro', 'sans-serif';
+  --var-primary--color: #1B4A7E;
+  --var-secondary--color: #00ABEC;
+  --var-terciary--color: #EDEDED;
+  --var-green--color: #198722;
+  --var-orange--color: #F99634;
+  --var-blue--color: #0088CC;
+  --var-red--color: #FF0000;
+}
+ 
+:root {
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-border-style: solid;
+}
+
+html {
+  --default-font-family: 'Be Vietnam Pro';
+}
+
+header, .menu, main, section {
+  width: 340px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+footer {
+  min-width: 380px;
+}
+
+section {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+section.colunistas, section.esportes {
+  margin-top: 40px;
+}
+
+svg {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.left-\[60px\] {
+  left: 60px;
+}
+
+.text-\[12px\] {
+  font-size: 12px;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[16px\] {
+  font-size: 16px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
+.leading-\[16px\] {
+  --tw-leading: 16px;
+  line-height: 16px;
+}
+
+.tracking-\[-3\%\] {
+  --tw-tracking: -3%;
+  letter-spacing: -0.03rem;
+}
+
+.tracking-\[-5\%\] {
+  --tw-tracking: -5%;
+  letter-spacing: -0.05rem;
+}
+
+.tracking-\[-7\%\] {
+  --tw-tracking: -7%;
+  letter-spacing: -0.07rem;
+}
+
+.carousel-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.ultimasNoticias .gridUltimas .coluna1 .subColuna2 .carousel-container {
+  height: 45rem;
+}
+
+.carousel {
+  display: flex;
+  flex-direction: column;
+  transition-property: transform, translate, scale, rotate;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+  --tw-duration: 500ms;
+  transition-duration: 500ms;
+  --tw-ease: var(--ease-in-out);
+  transition-timing-function: var(--ease-in-out);
+}
+
+.carousel-img {
+  flex: none;
+}
+
+.menu {margin: 0 auto;}
+.menu a, .menu button {
+  color: var(--var-primary--color);
+  font-size: 13px;
+  letter-spacing: -5%;
+  font-weight: 500;
+  margin:5px 0;
+}
+
+.menu a:hover, .menu button:hover {
+  color: var(--var-secondary--color);
+}
+
+.searchPortal button {
+  width: 30px;
+  height: 30px;
+  color: var(--var-secondary--color);
+}
+
+.searchPortal button:hover {
+  background-color: var(--color-gray-100);
+  color: var(--var-secondary--color);
+  cursor: pointer;
+}
+
+#btnBuscaPortal svg {
+  fill: var(--var-secondary--color);
+}
+
+.menuExpandido hr {
+  color: var(--var-primary--color);
+  border-top-width: 2px;
+  height: 0;
+}
+
+.tempoClima {
+  height: 20px;
+  margin-top: 5px;
+}
+
+.temperature strong, .city {
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: -3%;
+}
+
+.temperature strong:first-child {
+  color: var(--var-secondary--color);
+}
+
+.temperature strong:last-child {
+  color: #f30;
+  margin-left: 3px;
+}
+
+#offcanvasSidebar {
+  background-color: var(--var-primary--color);
+  min-width: 300px;
+  max-width: 90%;
+}
+
+#offcanvasSidebar a {
+  font-family: var(--default-font-family);
+  letter-spacing: -5%;
+}
+.dropbtn {
+  background-color:transparent;
+  color: white;
+  padding: 3px 4px;
+  font-size: 16px;
+  border: none;
+  filter: drop-shadow(2px 2px 3px #000);
+}
+
+.card-share {
+  position: absolute;
+  left: 10px;
+  z-index: 99;
+  top: 10px;
+  background-color:transparent;
+  height: 25px;
+  width: 25px;
+  border: 1px solid #fff;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 175px;
+  min-height: 30px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  top: -2px;
+  left: 20px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 8px 12px;
+  text-decoration: none;
+  display: inline;
+}
+
+.dropdown-content svg {
+  width: 16px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #1b4a7e;
+}
+
+.listaChamadasTopo {
+  font-size: 16px;
+  --tw-tracking: -5%;
+  letter-spacing: -5%;
+}
+
+.listaChamadasTopo > div {
+  margin-bottom: 20px;
+}
+
+.listaChamadasTopo > div > a:last-child > .h5 {
+  margin-bottom: 0;
+}
+
+.topoChamadas .coluna2 {
+  width: 300px;
+}
+
+.linksCapaDia > p > a {
+  font-size: 12px;
+  letter-spacing: -.05rem;
+}
+
+.btnIOS {
+  left:35%;
+  border-width: 1px;
+  height: 30px;
+}
+
+.btnAndroid {
+  left: 65%;
+  border-width: 1px;
+}
+
+.capaDoJornal img {
+  width: 90%;
+  height: auto;
+}
+
+.blogContainer picture > img {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.blocoColunistas .card {
+  width: 300px;
+  height: 180px;
+}
+
+.ultimasNoticias .subColuna1 p.h2:hover {
+  text-decoration: underline;
+}
+
+.ultimasNoticias .subColuna1, .ultimasNoticias .subColuna2, .estudioDP .coluna1, .blogs {
+  position: relative;
+}
+
+.ultimasNoticias .subColuna1 hr.h-px, .ultimasNoticias .subColuna2 hr.h-px, .estudioDP hr.h-px, .blogs hr.h-px {
+  position: absolute;
+  top: 15px;
+  right: 0;
+  width: 120px;
+  height: 3px;
+}
+
+.estudioDP hr.h-px {
+  width: 35%;
+}
+
+.blogs hr.h-px {
+  width: 60%;
+}
+
+.ultimasNoticias .subColuna2 hr.h-px {
+  width: 30px;
+}
+
+.edpContainer picture > img {
+  height: 180px;
+}
+
+footer .corpoFooter {
+  display:block;
+}
+
+footer .corpoFooter .coluna1, footer .corpoFooter .coluna2 { 
+  margin: 0 auto;
+  width: 330px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.pubMH-LB {
+  width: 320px;
+  height: 100px;
+}
+
+.squareSoMobile, .pubSquare div {
+  width:300px;
+  height: 300px;
+}
+
+.pubSquare {
+  margin-top: 20px;
+}
+
+.-translate-x-full {
+  --tw-translate-x: -100%;
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+}
+
+.chamadasTopo > div {
+  margin-bottom: 20px;
+}
+
+.chamadasTopo > div > a:last-child > h5 {
+  margin-bottom: 0;
+}
+
+.corpoNot p {
+  margin: 15px 0;
+}
+
+.corpoNot a:hover, .maisNoticiasCaderno a:hover, .tagsNot a:hover, .lateralListaNot a:hover, .lateralMaisLidasNot a:hover {
+  text-decoration: underline;
+}
+
+/*--------------*/
+/*SM - tailwind*/
+/*--------------*/
+@media (min-width:640px) {
+  .ultimasNoticias .gridUltimas .coluna1 .subColuna2 .carousel-container {
+    height: 36.5rem;
+    margin-bottom: 0;
+  }
+
+  .lateralRedesSociais div.flex.mt-4 {
+    justify-content: center;
+    margin-top: calc(var(--spacing) * 0);
+  }
+
+  .fotoEsquerda {
+    float:left;
+    padding-right: calc(var(--spacing) * 2);
+  }
+
+  .fotoDireita {
+    float:right;
+    padding-left: calc(var(--spacing) * 2);
+  }
+
+  footer .coluna2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 10px;
+    gap: 24px;
+  }
+
+  footer .baixoFooter {
+    display:flex; 
+    align-items:center; 
+    justify-content: space-between;
+  }
+
+  footer .baixoFooter span:first-child {
+    text-align: center;
+  }
+
+  footer .baixoFooter div:first-child {
+    justify-content: center;
+    margin-top: 0;
+  }
+}
+
+/*--------------*/
+/*MD - tailwind*/
+/*--------------*/
+@media (min-width:768px) {
+  header, .menu, main, section {
+    width: 728px;
+  } 
+
+  .searchPortal button {
+    width: 40px;
+    height: 40px;
+    margin-left: 0;
+    padding: 8px;
+  }
+
+  .tempoClima, .temperature {
+    font-size: 18px;
+  }
+
+  .temperature strong:first-child, .temperature strong:last-child {
+    width: 28px;
+  }
+
+  div[id*="galeria-"] > div.relative {
+    height: calc(var(--spacing) * 96);
+  }
+
+  div[id*="galeria-"] > button > svg {
+    rotate: 180deg;
+  }
+
+  .gridUltimaNoticia {
+    display: grid;
+    grid-template-columns: 80px auto;
+  }
+
+  .gridUltimaNoticia picture > img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+
+  .gridUltimaNoticia div.px-0 {
+    padding-block: calc(var(--spacing) * 0);
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .lateralListaNot span.h-6, .lateralMaisLidasNot span.h-6 {
+    position: absolute;
+    top: calc(var(--spacing) * 0);
+    right: calc(var(--spacing) * 0);
+  }
+
+  #Manchetao {
+    margin-bottom: 20px;
+  }
+
+  .linkManchetao span {
+    margin-top: 0;
+    margin-bottom: 16px;
+    display: inline;
+    position: absolute;
+    top:0;
+  }
+
+  .linkManchetao h1 {
+    position:absolute; 
+    top: 20px; 
+    margin-bottom: 0; 
+    padding-right: 10px; 
+    font-size: 30px;
+    line-height: 32px;
+    --tw-leading: 32px;
+  }
+
+  .linkManchetao p { 
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5px;
+    padding-bottom: 4px;
+    padding-right: 10px;
+  }
+
+  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+    left: 340px;
+  }
+
+  .listaChamadasTopo {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0,1fr));
+    gap: 6px;
+    margin-top: 20px;
+    padding-right: 10px;
+  }
+
+  .listaChamadasTopo > div {
+    margin-bottom: 20px;
+    border-right: 1px solid #ededed;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .listaChamadasTopo > div:first-child {
+    padding-left: 0;
+  }
+
+  .listaChamadasTopo > div:last-child {
+    border: none;
+    padding-right: 0;
+    padding-left: 4px;
+  }
+
+  .topoChamadas .coluna2 {
+    width: 100%;
+  }
+
+  .chamadasFoto, .maisDestaques div.chamadas, .blocoColunistas {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(2,minmax(0, 1fr));
+  }
+
+  .corpoBlog {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding-top: 10px;
+  }
+
+  .maisDestaques .chamadas picture > img {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+  }
+
+  .maisDestaques a > span.font-medium, .maisDestaques a > p.h2 {
+    position: absolute;
+    top: 0;
+    left: 160px;
+    padding-right: 10px;
+  }
+
+  .maisDestaques a > p.h2 {
+    top: 16px;
+  }
+
+  .blocoColunistas .card {
+    margin-bottom: 0;
+    width: auto;
+  }
+
+  .blocoTimes {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+  }
+
+  .blocoTimes .time div.relative > a > picture > img {
+    height:140px; 
+    object-fit: cover;
+  }
+
+  .blocoTimes .time div.border-l-2 {
+    padding-left: 12px;
+  }
+
+  .ultimasNoticias .coluna1 .gridColuna, .gridEstudioFull, .subGridSecao {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  .ultimasNoticias .subColuna1 hr.h-px {
+    width: 160px;
+  }
+
+  .ultimasNoticias .subColuna2 hr.h-px {
+    width: 55px;
+  }
+
+  .corpoUltimas picture > img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+
+  .corpoUltimas span:first-child {
+    top: 50px;
+    width: 20px;
+    height: 20px;
+    font-size: 42px;
+  }
+
+  .corpoUltimas span.chapeu {
+    position: absolute;
+    top: 0;
+    left: 95px;
+  }
+
+  .corpoUltimas .numeroMaisLidas {
+    position: absolute;
+    top: 50px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .corpoUltimas span:last-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .ultimasNoticias p.h2 {
+    position: absolute; 
+    top: 20px; 
+    left: 95px; 
+    padding-right: 10px;
+  }
+  
+  .subGridSecao .coluna1 picture > img {
+    height: 330px;
+  }
+
+  .subGridSecao .coluna1 p.h2, .subGridSecao .coluna1 div.border-l-2 > p {
+    padding-right: 10px;
+  }
+
+  .subGridSecao .coluna1 div.border-l-2 {
+    padding-left: 12px;
+  }
+
+  .gridUltimas .coluna2 {
+    display: grid;
+    grid-template-columns: 300px auto;
+    gap: 20px;
+  }
+
+  .gridUltimas .coluna2 .gridColMD {
+    display:flex;
+    flex-direction:column;
+  }
+
+  .gridUltimas .coluna2 .gridColMD picture > img {
+    height: 140px;
+  }
+
+  .estudioDP hr.h-px {
+    width: 70%;
+  }
+
+  .blogs hr.h-px {
+    width: 83%;
+  }
+
+  footer .corpoFooter {
+    display: grid;
+    grid-template-columns: 360px auto;
+  }
+  
+  footer .corpoFooter .coluna1, footer .corpoFooter .coluna2 { 
+    width: auto;
+  }
+
+  footer .corpoFooter .coluna1 {
+    margin-bottom: 0;
+  }
+
+  #searchBox {
+    inset: 0;
+  }
+
+  .pubMH-LB { 
+    width: 720px;
+    height: 90px;
+  }
+
+  .squareSoMobile {
+    display: none;
+  }
+
+  .pubSquare {
+    margin-top: 0;
+  }
+
+  .pubMH-LB p:first-child, .pubMH-LB p:last-child {
+    display: none;
+  }
+
+  .pubSky {
+    margin-top: 0;
+  }
+
+  .pubSky div {
+    width: 300px;
+    height: 600px;
+  }
+}
+
+@media (min-width:992px) {
+  header, .menu, main, section {width: 952px;} 
+  .city, .temperature strong {
+      font-size: 16px;
+  }
+
+  .tempoClima {
+    height: 30px;
+    margin-top: 20px;
+  }
+
+  .ultimasNoticias .subColuna1 hr.h-px {
+    width: 270px;
+  }
+
+  .ultimasNoticias .subColuna2 hr.h-px {
+    width: 170px;
+  }
+
+  footer .corpoFooter {
+    display:grid;
+    grid-template-columns: repeat(2,minmax(0, 1fr));
+  }
+  
+}
+
+/*--------------*/
+/*LG - Tailwind*/
+/*--------------*/
+@media (min-width:1024px){
+  #btnBuscaPortal {
+    padding: 12px;  
+  }
+
+  #offcanvasSidebar {
+    max-width: 450px;
+  }
+
+  #offcanvasSidebar svg {
+    width: 16px;
+  }
+
+  .menuPortal span {
+    display: inline;
+  }
+
+  #offcanvasSidebar .dropdown button.dropdown-toggle {
+    gap: 4px;
+  } 
+
+  #dropdownCadernos ul {
+    width: 12rem;
+  }
+
+  .topoChamadas {
+    display: grid;
+    grid-template-columns: auto 300px;
+  }
+
+  .chamadasTopo {
+    display: grid;
+    grid-template-columns: auto 300px;
+  }
+
+  #Manchetao picture img {
+    width: 300px;
+    height: auto;
+  }
+
+  .linkManchetao h1 { 
+    top: 24px;
+  }
+
+  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+    left: 320px;
+  }
+
+  .listaChamadasTopo {
+    line-height: 24px;
+    --tw-leading: 24px;
+    font-size: 17px;
+  }
+
+  .topoChamadas .coluna2 {
+    width: 300px;
+  }
+
+  .chamadasFoto {
+    grid-template-columns: repeat(4,minmax(0, 1fr));
+  }
+
+  .chamadasFoto span.font-medium {
+    height: 28px;
+  }
+
+  .maisDestaques {
+    display: grid;
+    grid-template-columns: auto 300px;
+  }
+
+  .maisDestaques .coluna1 {
+    padding-right: 20px;
+  }
+
+  section a:first-child > span.font-light {
+    font-size: 20px;
+    line-height: 1.4rem;
+  }
+
+  .blocoColunistas {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .blocoColunistas .card {
+    height: 220px;
+  }
+
+  .blocoTimes {
+    gap: 20px;
+  }
+
+  .blocoTimes .time div.relative > a > picture > img {
+    height:180px;
+  }
+
+  .blocoTimes .time div.border-l-2 > a > p {
+    font-size: 14px;
+    line-height: 1.426rem;
+  }
+
+  .ultimasNoticias .gridUltimas, .ultimasNoticias .coluna1 .gridColuna, .estudioDP .gridEstudio, .gridSecao {
+    display: grid;
+    grid-template-columns: auto 300px;
+    gap: 16px;
+  }
+
+  .ultimasNoticias .coluna1 .gridColuna {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .ultimasNoticias .subColuna1, .ultimasNoticias .subColuna2 {
+    margin-bottom: 0;
+  }
+
+  .ultimasNoticias .subColuna1 > hr.h-px {
+    top: 10px;
+    width: 120px;
+  }
+
+  .ultimasNoticias .subColuna2 > hr.h-px {
+    top: 10px;
+    width: 20px;
+  }
+
+  .estudioDP hr.h-px {
+    width: 80%;
+  }
+
+  .blogs hr.h-px {
+    top: 10px;
+    width: 80%;
+  }
+
+  .gridUltimas .coluna2 {
+    display: block;
+  }
+
+  .gridUltimas .coluna2 .gridColMD {
+    display:block;
+  }
+
+  .gridUltimas .coluna2 .gridColMD > img {
+    height: auto;
+  }
+
+  .gridEstudioFull, .subGridSecao {
+    gap: 24px;
+  }
+
+  .subGridSecao .coluna1 p.font-light {
+    font-size: 14px;
+    --tw-leading: 20px;
+    line-height: 20px;
+  }
+
+  .subGridSecao .coluna2 .cadernoContainer a > span.h-6 {
+    padding-right: 10px;
+  }
+
+  section h3 {
+    font-size: 30px;
+    line-height: 1.4rem;
+  }
+
+  footer div.max-w-screen-xl {
+    padding-block: 32px;
+  }
+
+  footer .corpoFooter .coluna1 p:first-child {
+    width: 420px;
+    padding-right: 20px;
+  }
+
+  .topoChamadas .pubSquare {
+    margin-top: 20px;
+  }
+
+  .pubMH-LB p:nth-child(2) {
+    display: block;
+  }
+  
+  .pubMH-LB p:last-child {
+    display: none;
+  }
+
+  .pubSky {
+    margin-top: 20px;
+  }
+}
+
+@media (min-width:1200px) {
+  header, .menu, main, section {
+    width: 1160px;
+  } 
+
+  .menu a, .menu button {
+    font-size: 16px;
+  }
+
+  .btnSecao {
+    margin-top: -0.7rem;
+  }
+
+  .ultimasNoticias .subColuna1 > hr.h-px {
+    width: 220px;
+  }
+
+  .ultimasNoticias .subColuna2 > hr.h-px {
+    width: 120px;
+  }
+
+  .estudioDP hr.h-px {
+    top: 10px;
+    width: 75%;
+  }
+
+  .blogs hr.h-px {
+    width: 85%;
+  }
+}
+
+@media (min-width:1024px) and (max-width:1199px){
+  #Manchetao h1 {
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+  }
+
+  .maisDestaques .chamadas picture img {
+    width:130px;
+  }
+
+  .maisDestaques span, .maisDestaques h2 {
+    left:140px;
+  }
+
+  .maisDestaques h2 {
+    font-size:0.8rem;
+    line-height: 1rem;
+  }
+
+  .btnSecao {
+    margin-top: -0.7rem;
+  }
+
+  .maisDestaques a > p.h2 {
+    font-size: 12px;
+  }
+
+  .maisDestaques a > span.font-medium, .maisDestaques a > p.h2 {
+    left: 140px;
+  }
+
+  .estudioDP hr.h-px {
+    top: 10px;
+    width: 70%;
+  }
+}
+/*--------------*/
+/*XL - Tailwind*/
+/*--------------*/
+@media (min-width:1280px){
+  
+  .searchPortal button {
+    width: 50px;
+    height: 50px;
+  }
+
+  #Manchetao picture img {
+    width: 400px;
+  }
+
+  .linkManchetao h1 { 
+    line-height: 44px;
+    --tw-leading: 44px;
+    font-size: 36px;
+  }
+
+  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+    left: 420px;
+  }
+
+  .blocoColunistas .card {
+    height: 180px;
+  }
+
+  .ultimasNoticias .gridUltimas, .estudioDP .gridEstudio, .gridSecao {
+    gap: 24px;
+  }
+
+  .subGridSecao .coluna1 p.h2 {
+    font-size: 26px;
+    --tw-leading: 32px;
+    line-height: 32px;
+  }
+
+  footer .coluna2 {
+    padding-left: 32px;
+  }
+
+  .pubMH-LB { 
+    width: 970px;
+    height: 250px;
+  }
+
+  .pubMH-LB p:nth-child(2) {
+    display: none;
+  }
+  
+  .pubMH-LB p:last-child {
+    display: block;
+  }
+}  
+  
