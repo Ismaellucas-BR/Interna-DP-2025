@@ -2,177 +2,187 @@
 
 /* be-vietnam-pro-100 - latin_latin-ext */
 @font-face {
-  font-display: optional; 
-  font-family: 'Be Vietnam Pro';
+  font-display: optional;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 100;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-100.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-100italic - latin_latin-ext */
 @font-face {
-  font-display: optional; 
-  font-family: 'Be Vietnam Pro';
+  font-display: optional;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 100;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-100italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-100italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-200 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 200;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-200.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-200italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 200;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-200italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-200italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-300 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 300;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-300.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-300italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 300;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-300italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-300italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-regular - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 400;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 400;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-500 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 500;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-500italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 500;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-500italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-600 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 600;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-600.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-600.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-600italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 600;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-600italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-600italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-700 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 700;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-700italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 700;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-700italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-800 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 800;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-800.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-800italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 800;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-800italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-800italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-900 - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: normal;
   font-weight: 900;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-900.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* be-vietnam-pro-900italic - latin_latin-ext */
 @font-face {
-  font-display: auto; 
-  font-family: 'Be Vietnam Pro';
+  font-display: auto;
+  font-family: "Be Vietnam Pro";
   font-style: italic;
   font-weight: 900;
-  src: url('/src/be-vietnam-pro-v11-latin_latin-ext-900italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}  
+  src: url("/src/be-vietnam-pro-v11-latin_latin-ext-900italic.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 @theme {
-  --font-display: 'Be Vietnam Pro', 'sans-serif';
-  --var-primary--color: #1B4A7E;
-  --var-secondary--color: #00ABEC;
-  --var-terciary--color: #EDEDED;
+  --font-display: "Be Vietnam Pro", "sans-serif";
+  --var-primary--color: #1b4a7e;
+  --var-secondary--color: #00abec;
+  --var-terciary--color: #ededed;
   --var-green--color: #198722;
-  --var-orange--color: #F99634;
-  --var-blue--color: #0088CC;
-  --var-red--color: #FF0000;
+  --var-orange--color: #f99634;
+  --var-blue--color: #0088cc;
+  --var-red--color: #ff0000;
 }
- 
+
 :root {
   --tw-translate-x: 0;
   --tw-translate-y: 0;
@@ -185,13 +195,20 @@
 }
 
 html {
-  --default-font-family: 'Be Vietnam Pro';
+  --default-font-family: "Be Vietnam Pro";
 }
 
-header, .menu, main, section {
+header,
+.menu,
+main,
+section {
   width: 340px;
   padding: 0 20px;
   margin: 0 auto;
+}
+
+main {
+  padding: 0;
 }
 
 footer {
@@ -203,7 +220,8 @@ section {
   margin-top: 30px;
 }
 
-section.colunistas, section.esportes {
+section.colunistas,
+section.esportes {
   margin-top: 40px;
 }
 
@@ -265,7 +283,10 @@ svg {
   display: flex;
   flex-direction: column;
   transition-property: transform, translate, scale, rotate;
-  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-timing-function: var(
+    --tw-ease,
+    var(--default-transition-timing-function)
+  );
   transition-duration: var(--tw-duration, var(--default-transition-duration));
   --tw-duration: 500ms;
   transition-duration: 500ms;
@@ -277,16 +298,20 @@ svg {
   flex: none;
 }
 
-.menu {margin: 0 auto;}
-.menu a, .menu button {
+.menu {
+  margin: 0 auto;
+}
+.menu a,
+.menu button {
   color: var(--var-primary--color);
   font-size: 13px;
   letter-spacing: -5%;
   font-weight: 500;
-  margin:5px 0;
+  margin: 5px 0;
 }
 
-.menu a:hover, .menu button:hover {
+.menu a:hover,
+.menu button:hover {
   color: var(--var-secondary--color);
 }
 
@@ -317,7 +342,8 @@ svg {
   margin-top: 5px;
 }
 
-.temperature strong, .city {
+.temperature strong,
+.city {
   font-weight: 400;
   font-size: 13px;
   letter-spacing: -3%;
@@ -343,7 +369,7 @@ svg {
   letter-spacing: -5%;
 }
 .dropbtn {
-  background-color:transparent;
+  background-color: transparent;
   color: white;
   padding: 3px 4px;
   font-size: 16px;
@@ -356,7 +382,7 @@ svg {
   left: 10px;
   z-index: 99;
   top: 10px;
-  background-color:transparent;
+  background-color: transparent;
   height: 25px;
   width: 25px;
   border: 1px solid #fff;
@@ -375,7 +401,7 @@ svg {
   background-color: #fff;
   min-width: 175px;
   min-height: 30px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
   top: -2px;
   left: 20px;
@@ -428,11 +454,11 @@ svg {
 
 .linksCapaDia > p > a {
   font-size: 12px;
-  letter-spacing: -.05rem;
+  letter-spacing: -0.05rem;
 }
 
 .btnIOS {
-  left:35%;
+  left: 35%;
   border-width: 1px;
   height: 30px;
 }
@@ -462,11 +488,17 @@ svg {
   text-decoration: underline;
 }
 
-.ultimasNoticias .subColuna1, .ultimasNoticias .subColuna2, .estudioDP .coluna1, .blogs {
+.ultimasNoticias .subColuna1,
+.ultimasNoticias .subColuna2,
+.estudioDP .coluna1,
+.blogs {
   position: relative;
 }
 
-.ultimasNoticias .subColuna1 hr.h-px, .ultimasNoticias .subColuna2 hr.h-px, .estudioDP hr.h-px, .blogs hr.h-px {
+.ultimasNoticias .subColuna1 hr.h-px,
+.ultimasNoticias .subColuna2 hr.h-px,
+.estudioDP hr.h-px,
+.blogs hr.h-px {
   position: absolute;
   top: 15px;
   right: 0;
@@ -491,10 +523,11 @@ svg {
 }
 
 footer .corpoFooter {
-  display:block;
+  display: block;
 }
 
-footer .corpoFooter .coluna1, footer .corpoFooter .coluna2 { 
+footer .corpoFooter .coluna1,
+footer .corpoFooter .coluna2 {
   margin: 0 auto;
   width: 330px;
 }
@@ -508,8 +541,9 @@ footer a:hover {
   height: 100px;
 }
 
-.squareSoMobile, .pubSquare div {
-  width:300px;
+.squareSoMobile,
+.pubSquare div {
+  width: 300px;
   height: 300px;
 }
 
@@ -534,14 +568,18 @@ footer a:hover {
   margin: 15px 0;
 }
 
-.corpoNot a:hover, .maisNoticiasCaderno a:hover, .tagsNot a:hover, .lateralListaNot a:hover, .lateralMaisLidasNot a:hover {
+.corpoNot a:hover,
+.maisNoticiasCaderno a:hover,
+.tagsNot a:hover,
+.lateralListaNot a:hover,
+.lateralMaisLidasNot a:hover {
   text-decoration: underline;
 }
 
 /*--------------*/
 /*SM - tailwind*/
 /*--------------*/
-@media (min-width:640px) {
+@media (min-width: 640px) {
   .ultimasNoticias .gridUltimas .coluna1 .subColuna2 .carousel-container {
     height: 36.5rem;
     margin-bottom: 0;
@@ -553,12 +591,12 @@ footer a:hover {
   }
 
   .fotoEsquerda {
-    float:left;
+    float: left;
     padding-right: calc(var(--spacing) * 2);
   }
 
   .fotoDireita {
-    float:right;
+    float: right;
     padding-left: calc(var(--spacing) * 2);
   }
 
@@ -570,8 +608,8 @@ footer a:hover {
   }
 
   footer .baixoFooter {
-    display:flex; 
-    align-items:center; 
+    display: flex;
+    align-items: center;
     justify-content: space-between;
   }
 
@@ -588,10 +626,21 @@ footer a:hover {
 /*--------------*/
 /*MD - tailwind*/
 /*--------------*/
-@media (min-width:768px) {
-  header, .menu, main, section {
+@media (min-width: 768px) {
+  header,
+  .menu,
+  main,
+  section {
     width: 728px;
-  } 
+  }
+
+  .md\:hidden {
+    display: none;
+  }
+
+  .md\:inline {
+    display: inline;
+  }
 
   .searchPortal button {
     width: 40px;
@@ -600,11 +649,13 @@ footer a:hover {
     padding: 8px;
   }
 
-  .tempoClima, .temperature {
+  .tempoClima,
+  .temperature {
     font-size: 18px;
   }
 
-  .temperature strong:first-child, .temperature strong:last-child {
+  .temperature strong:first-child,
+  .temperature strong:last-child {
     width: 28px;
   }
 
@@ -632,7 +683,8 @@ footer a:hover {
     padding-inline: calc(var(--spacing) * 5);
   }
 
-  .lateralListaNot span.h-6, .lateralMaisLidasNot span.h-6 {
+  .lateralListaNot span.h-6,
+  .lateralMaisLidasNot span.h-6 {
     position: absolute;
     top: calc(var(--spacing) * 0);
     right: calc(var(--spacing) * 0);
@@ -647,20 +699,20 @@ footer a:hover {
     margin-bottom: 16px;
     display: inline;
     position: absolute;
-    top:0;
+    top: 0;
   }
 
   .linkManchetao h1 {
-    position:absolute; 
-    top: 20px; 
-    margin-bottom: 0; 
-    padding-right: 10px; 
+    position: absolute;
+    top: 20px;
+    margin-bottom: 0;
+    padding-right: 10px;
     font-size: 30px;
     line-height: 32px;
     --tw-leading: 32px;
   }
 
-  .linkManchetao p { 
+  .linkManchetao p {
     position: absolute;
     bottom: 0;
     margin-bottom: 5px;
@@ -668,13 +720,15 @@ footer a:hover {
     padding-right: 10px;
   }
 
-  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+  .linkManchetao span,
+  .linkManchetao h1,
+  .linkManchetao p {
     left: 340px;
   }
 
   .listaChamadasTopo {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0,1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 6px;
     margin-top: 20px;
     padding-right: 10px;
@@ -701,10 +755,12 @@ footer a:hover {
     width: 100%;
   }
 
-  .chamadasFoto, .maisDestaques div.chamadas, .blocoColunistas {
+  .chamadasFoto,
+  .maisDestaques div.chamadas,
+  .blocoColunistas {
     display: grid;
     gap: 10px;
-    grid-template-columns: repeat(2,minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .corpoBlog {
@@ -720,7 +776,8 @@ footer a:hover {
     object-fit: cover;
   }
 
-  .maisDestaques a > span.font-medium, .maisDestaques a > p.h2 {
+  .maisDestaques a > span.font-medium,
+  .maisDestaques a > p.h2 {
     position: absolute;
     top: 0;
     left: 160px;
@@ -743,7 +800,7 @@ footer a:hover {
   }
 
   .blocoTimes .time div.relative > a > picture > img {
-    height:140px; 
+    height: 140px;
     object-fit: cover;
   }
 
@@ -751,7 +808,9 @@ footer a:hover {
     padding-left: 12px;
   }
 
-  .ultimasNoticias .coluna1 .gridColuna, .gridEstudioFull, .subGridSecao {
+  .ultimasNoticias .coluna1 .gridColuna,
+  .gridEstudioFull,
+  .subGridSecao {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 16px;
@@ -798,17 +857,18 @@ footer a:hover {
   }
 
   .ultimasNoticias p.h2 {
-    position: absolute; 
-    top: 20px; 
-    left: 95px; 
+    position: absolute;
+    top: 20px;
+    left: 95px;
     padding-right: 10px;
   }
-  
+
   .subGridSecao .coluna1 picture > img {
     height: 330px;
   }
 
-  .subGridSecao .coluna1 p.h2, .subGridSecao .coluna1 div.border-l-2 > p {
+  .subGridSecao .coluna1 p.h2,
+  .subGridSecao .coluna1 div.border-l-2 > p {
     padding-right: 10px;
   }
 
@@ -823,8 +883,8 @@ footer a:hover {
   }
 
   .gridUltimas .coluna2 .gridColMD {
-    display:flex;
-    flex-direction:column;
+    display: flex;
+    flex-direction: column;
   }
 
   .gridUltimas .coluna2 .gridColMD picture > img {
@@ -843,8 +903,9 @@ footer a:hover {
     display: grid;
     grid-template-columns: 360px auto;
   }
-  
-  footer .corpoFooter .coluna1, footer .corpoFooter .coluna2 { 
+
+  footer .corpoFooter .coluna1,
+  footer .corpoFooter .coluna2 {
     width: auto;
   }
 
@@ -856,7 +917,7 @@ footer a:hover {
     inset: 0;
   }
 
-  .pubMH-LB { 
+  .pubMH-LB {
     width: 720px;
     height: 90px;
   }
@@ -869,7 +930,8 @@ footer a:hover {
     margin-top: 0;
   }
 
-  .pubMH-LB p:first-child, .pubMH-LB p:last-child {
+  .pubMH-LB p:first-child,
+  .pubMH-LB p:last-child {
     display: none;
   }
 
@@ -883,10 +945,16 @@ footer a:hover {
   }
 }
 
-@media (min-width:992px) {
-  header, .menu, main, section {width: 952px;} 
-  .city, .temperature strong {
-      font-size: 16px;
+@media (min-width: 992px) {
+  header,
+  .menu,
+  main,
+  section {
+    width: 952px;
+  }
+  .city,
+  .temperature strong {
+    font-size: 16px;
   }
 
   .tempoClima {
@@ -903,18 +971,17 @@ footer a:hover {
   }
 
   footer .corpoFooter {
-    display:grid;
-    grid-template-columns: repeat(2,minmax(0, 1fr));
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  
 }
 
 /*--------------*/
 /*LG - Tailwind*/
 /*--------------*/
-@media (min-width:1024px){
+@media (min-width: 1024px) {
   #btnBuscaPortal {
-    padding: 12px;  
+    padding: 12px;
   }
 
   #offcanvasSidebar {
@@ -931,7 +998,7 @@ footer a:hover {
 
   #offcanvasSidebar .dropdown button.dropdown-toggle {
     gap: 4px;
-  } 
+  }
 
   #dropdownCadernos ul {
     width: 12rem;
@@ -952,11 +1019,13 @@ footer a:hover {
     height: auto;
   }
 
-  .linkManchetao h1 { 
+  .linkManchetao h1 {
     top: 24px;
   }
 
-  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+  .linkManchetao span,
+  .linkManchetao h1,
+  .linkManchetao p {
     left: 320px;
   }
 
@@ -971,7 +1040,7 @@ footer a:hover {
   }
 
   .chamadasFoto {
-    grid-template-columns: repeat(4,minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .chamadasFoto span.font-medium {
@@ -1005,7 +1074,7 @@ footer a:hover {
   }
 
   .blocoTimes .time div.relative > a > picture > img {
-    height:180px;
+    height: 180px;
   }
 
   .blocoTimes .time div.border-l-2 > a > p {
@@ -1013,7 +1082,10 @@ footer a:hover {
     line-height: 1.426rem;
   }
 
-  .ultimasNoticias .gridUltimas, .ultimasNoticias .coluna1 .gridColuna, .estudioDP .gridEstudio, .gridSecao {
+  .ultimasNoticias .gridUltimas,
+  .ultimasNoticias .coluna1 .gridColuna,
+  .estudioDP .gridEstudio,
+  .gridSecao {
     display: grid;
     grid-template-columns: auto 300px;
     gap: 16px;
@@ -1023,7 +1095,8 @@ footer a:hover {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .ultimasNoticias .subColuna1, .ultimasNoticias .subColuna2 {
+  .ultimasNoticias .subColuna1,
+  .ultimasNoticias .subColuna2 {
     margin-bottom: 0;
   }
 
@@ -1051,14 +1124,15 @@ footer a:hover {
   }
 
   .gridUltimas .coluna2 .gridColMD {
-    display:block;
+    display: block;
   }
 
   .gridUltimas .coluna2 .gridColMD > img {
     height: auto;
   }
 
-  .gridEstudioFull, .subGridSecao {
+  .gridEstudioFull,
+  .subGridSecao {
     gap: 24px;
   }
 
@@ -1093,7 +1167,7 @@ footer a:hover {
   .pubMH-LB p:nth-child(2) {
     display: block;
   }
-  
+
   .pubMH-LB p:last-child {
     display: none;
   }
@@ -1103,12 +1177,16 @@ footer a:hover {
   }
 }
 
-@media (min-width:1200px) {
-  header, .menu, main, section {
+@media (min-width: 1200px) {
+  header,
+  .menu,
+  main,
+  section {
     width: 1160px;
-  } 
+  }
 
-  .menu a, .menu button {
+  .menu a,
+  .menu button {
     font-size: 16px;
   }
 
@@ -1134,22 +1212,23 @@ footer a:hover {
   }
 }
 
-@media (min-width:1024px) and (max-width:1199px){
+@media (min-width: 1024px) and (max-width: 1199px) {
   #Manchetao h1 {
     font-size: 1.4rem;
     line-height: 1.8rem;
   }
 
   .maisDestaques .chamadas picture img {
-    width:130px;
+    width: 130px;
   }
 
-  .maisDestaques span, .maisDestaques h2 {
-    left:140px;
+  .maisDestaques span,
+  .maisDestaques h2 {
+    left: 140px;
   }
 
   .maisDestaques h2 {
-    font-size:0.8rem;
+    font-size: 0.8rem;
     line-height: 1rem;
   }
 
@@ -1161,7 +1240,8 @@ footer a:hover {
     font-size: 12px;
   }
 
-  .maisDestaques a > span.font-medium, .maisDestaques a > p.h2 {
+  .maisDestaques a > span.font-medium,
+  .maisDestaques a > p.h2 {
     left: 140px;
   }
 
@@ -1173,8 +1253,7 @@ footer a:hover {
 /*--------------*/
 /*XL - Tailwind*/
 /*--------------*/
-@media (min-width:1280px){
-  
+@media (min-width: 1280px) {
   .searchPortal button {
     width: 50px;
     height: 50px;
@@ -1184,13 +1263,15 @@ footer a:hover {
     width: 400px;
   }
 
-  .linkManchetao h1 { 
+  .linkManchetao h1 {
     line-height: 44px;
     --tw-leading: 44px;
     font-size: 36px;
   }
 
-  .linkManchetao span, .linkManchetao h1, .linkManchetao p {
+  .linkManchetao span,
+  .linkManchetao h1,
+  .linkManchetao p {
     left: 420px;
   }
 
@@ -1198,7 +1279,9 @@ footer a:hover {
     height: 180px;
   }
 
-  .ultimasNoticias .gridUltimas, .estudioDP .gridEstudio, .gridSecao {
+  .ultimasNoticias .gridUltimas,
+  .estudioDP .gridEstudio,
+  .gridSecao {
     gap: 24px;
   }
 
@@ -1212,7 +1295,7 @@ footer a:hover {
     padding-left: 32px;
   }
 
-  .pubMH-LB { 
+  .pubMH-LB {
     width: 970px;
     height: 250px;
   }
@@ -1220,9 +1303,8 @@ footer a:hover {
   .pubMH-LB p:nth-child(2) {
     display: none;
   }
-  
+
   .pubMH-LB p:last-child {
     display: block;
   }
-}  
-  
+}
